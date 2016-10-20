@@ -1,3 +1,3 @@
 #!/bin/bash
-javac hello/hello1.java
-java hello/hello1
+javac hello1.java
+java hello1
