@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "Hello World!"
+cd /home/kyamini/Desktop/hello
+javac hello1.java
+java hello
